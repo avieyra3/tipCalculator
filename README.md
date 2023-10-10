@@ -2,15 +2,15 @@
 
 # AND101 Project 4 - CodeMath
 
-Submitted by: **Your Name Here**
+Submitted by: **Alfonso Vieyra**
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that **fill in this description**
+**Tip Calculator** is an android app that automatically calculates the tip of your bill and thus the total amount. 
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: **:money: :calculator: :restaurant:**
 
 ## Application Features
 
@@ -18,9 +18,9 @@ If I had to describe this project in three (3) emojis, they would be: **emojis h
 
 The following REQUIRED features are completed:
 
-- [ ] At least one (1) user input
-- [ ] At least one (1) interactive View
-- [ ] At least one (1) output of a calculation based on the user input
+- [x] At least one (1) user input
+- [x] At least one (1) interactive View
+- [x] At least one (1) output of a calculation based on the user input
 
 The following STRETCH features are implemented:
 
@@ -35,9 +35,9 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='./tip.gif' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
+GIF created with **[ScreenToGif](https://www.screentogif.com/)**
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
@@ -46,11 +46,12 @@ GIF created with **your chosen GIF tool**
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+I really got to learn how to take in text and modify it. Furthermore, i got to learn a little more 
+about event listeners on android.
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright **2023** **Alfonso Vieyra**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
